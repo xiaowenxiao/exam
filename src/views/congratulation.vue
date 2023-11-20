@@ -16,7 +16,7 @@ export default {
 </script>
 
 <template>
-  <h1 @click="showConfetti">🎉 Congratulations!</h1>
+  <h1 @click="showConfetti">🎉 考试已结束，Congratulations!</h1>
 </template>
 
 <style>
